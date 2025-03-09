@@ -12,8 +12,8 @@ This repository consists of programs I wrote for learning React concepts while f
     ```node --version```
 	> If you don't have node, install it from [node official website](https://nodejs.org/en)
 
-3. Change directory to any one of the project to run that project
-    ```cd bgChanger```<br>
+3. Change directory to any one of the project to run that project<br>
+    ```cd bgChanger```
     > Make sure to navigate to desired project directory. I shown bgChanger for an example.
 
 4. Install all the dependencies.<br>

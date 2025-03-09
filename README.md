@@ -15,4 +15,4 @@ This repository consists of programs I wrote for learning React concepts while f
     ```npm install```
 	> Make sure to navigate to React_Practice directory
 4. Now that we have all the things set up. We can run our project by:<br>
-    ```npm run start```
+    ```npm run dev```
